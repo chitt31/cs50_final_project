@@ -1,10 +1,10 @@
 # CS50 - Final Project - Tech Recycle for Education
 
-Hello, my name is Diego, I’m from Brazil and I live in the State of São Paulo. I’m a teacher at a school, and it was thinking about the school that I came up with the idea for the final CS50 project.
+Hello, my name is Chitt, I’m from India and I live in the State Gujarat. I'm an computer engineering student at PDEU.
 
-We have a project to create an electronics, computer and robotics laboratory at the school, but we have no resources or equipment. We started with small classes teaching programming with Arduino but we had limited resources because the teachers donated all material.
+We have a project to create an electronics, computer and robotics laboratory at the college, but we have no resources or equipment. We started with small classes teaching programming with Arduino but we had limited resources because the teachers donated all material.
 
-My idea was to create a website that makes it possible to donate electronic equipment to schools that want to create a laboratory to teach programming and electronics. That way schools could register and people could donate smartphones, computers, laptops that they no longer use.
+My idea was to create a website that makes it possible to donate electronic equipment to colleges that want to create a laboratory to teach programming and electronics. That way schools could register and people could donate smartphones, computers, laptops that they no longer use.
 
 My project Tech Recycle for Education was developed with a focus on two types of users, Donors, that could have some spare gadget getting dust at home and Schools that could use these gadgets to build a maker lab to teach programming.
 
